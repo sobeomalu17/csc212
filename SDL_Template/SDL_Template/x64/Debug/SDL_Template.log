@@ -1,0 +1,6 @@
+﻿  test.cpp
+C:\Users\USER\Downloads\SDL_Template\SDL_Template\test.cpp(16,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\USER\Downloads\SDL_Template\SDL_Template\test.cpp(48,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\SDL_Template\SDL_Template\test.cpp(58,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\SDL_Template\SDL_Template\test.cpp(156,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SDL_Template.vcxproj -> C:\Users\USER\Downloads\SDL_Template\SDL_Template\x64\Debug\SDL_Template.exe
